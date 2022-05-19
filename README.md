@@ -1,4 +1,4 @@
-# Hi 👋, I'm Micro
+# Hi 👋, I'm Nikita
 
 
 - 🌐 Full Stack Web Development
